@@ -1,6 +1,6 @@
-# GBA Games Page:
+# Games
 
-https://jsemu3.github.io/gba
+https://dogindustrialstudios.github.io/Arcade
 
 # GBA Emulator Core Used:
 
