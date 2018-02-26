@@ -37,7 +37,7 @@ var games = {
     "superstar":"Mario & Luigi: Superstar Saga",
     "supermarioadvance":"Super Mario Advance",
     "simpsons":"The Simpsons: Road Rage",
-    "tetris_worlds":"Tetris Worlds",,
+    "tetris_worlds":"Tetris Worlds",
     "spyro_adventure":"Spyro Adventure",
     "spyro_ice":"Spyro: Season of Ice",
     "spyro_flame":"Spyro 2: Season of Flame"
